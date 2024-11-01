@@ -35,7 +35,7 @@ pip install streamlit beautifulsoup4 pandas requests
 
 1. **Clone the Repository**: 
    ```bash
-   git clone https://github.com/yourusername/imdb-scraper.git
+  [ git clone https://github.com/yourusername/imdb-scraper.git](https://github.com/shreyai347/IMDB-Data-Scraper.git)
    cd imdb-scraper
    ```
 
