@@ -1,8 +1,3 @@
-# IMDB-Data-Scraper
-A Streamlit application that scrapes detailed information about movies and series from IMDB. Users can input a valid IMDB URL to retrieve data such as title, poster, genres, storyline, ratings, box office information, and trailer links.
-
-
-Absolutely! Here's a more engaging README file with emojis and a lively tone.
 
 ---
 
@@ -74,8 +69,8 @@ This project is licensed under the MIT License.
 
 ## Contact 📬
 
-For any inquiries or feedback, please reach out to [your email address]. I'm excited to hear from you! 💌
+For any inquiries or feedback, please reach out to [shreyashreya2322@gmail.com]. I'm excited to hear from you! 💌
 
 ---
 
-Feel free to tweak any sections or add more personal touches to make it your own!
+
