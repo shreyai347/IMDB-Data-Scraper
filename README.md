@@ -3,11 +3,13 @@
 ---
 
 # 🎬 IMDB Movie and Series Scraper
-
-![Screenshot (108)](https://github.com/user-attachments/assets/6aa79755-98ec-4f79-997d-3f7ae0d33f28)
-![Screenshot (109)](https://github.com/user-attachments/assets/2deedbbf-14d4-46ed-a652-89a144f5140d)
-![Screenshot (110)](https://github.com/user-attachments/assets/c487ee3f-6295-477a-ab16-59b0e8c2cb69)
 ![Screenshot (107)](https://github.com/user-attachments/assets/c90b09ef-4416-434b-9cf9-01ae54b0a4e7)
+![Screenshot (110)](https://github.com/user-attachments/assets/c487ee3f-6295-477a-ab16-59b0e8c2cb69)
+![Screenshot (109)](https://github.com/user-attachments/assets/2deedbbf-14d4-46ed-a652-89a144f5140d)
+![Screenshot (108)](https://github.com/user-attachments/assets/6aa79755-98ec-4f79-997d-3f7ae0d33f28)
+
+
+
 
 Welcome to the **IMDB Movie and Series Scraper**! 🌟 This interactive application allows you to effortlessly fetch and display detailed information about your favorite movies and series directly from IMDB. Dive into the world of cinema! 🍿✨
 
